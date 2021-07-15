@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40167" started-at="2021-07-15T07:47:42 IST" finished-at="2021-07-15T07:48:22 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40167" started-at="2021-07-15T07:47:42 IST" finished-at="2021-07-15T07:48:22 IST">
+      <class name="PhpTravelsTest.RegistrationTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:PhpTravelsTest.RegistrationTest@17211155]" name="before" is-config="true" duration-ms="20112" started-at="2021-07-15T07:47:42 IST" finished-at="2021-07-15T07:48:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="ManualPassingValuesRegistrationTest()[pri:0, instance:PhpTravelsTest.RegistrationTest@17211155]" name="ManualPassingValuesRegistrationTest" duration-ms="18393" started-at="2021-07-15T07:48:02 IST" finished-at="2021-07-15T07:48:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManualPassingValuesRegistrationTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:PhpTravelsTest.RegistrationTest@17211155]" name="after" is-config="true" duration-ms="1593" started-at="2021-07-15T07:48:20 IST" finished-at="2021-07-15T07:48:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- PhpTravelsTest.RegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
