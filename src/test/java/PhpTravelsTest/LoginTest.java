@@ -41,17 +41,38 @@ public class LoginTest extends TestBase
 }
 
 /*
- * Cretate a test for invalid scenarios 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * */
+ * /*Test 3 
+	 * 
+	 * Create Test for invalid email on login page -> verify that correct error message occurs on the top of the page
+	 * 
+	 * 
+	 *********************************************
+	 * Test 4
+	 * 
+	 * Create Test for blank email on login page -> verify that correct error message occurs on the top of the page
+	 * 
+	 * ******************************************************************
+	 * 
+	 * Test 5
+	 * 
+	 * Create Test for invalid password on login page -> verify that correct error message occurs on the top of the page
+	 * 
+	 * *-**************************************************
+	 * Test 6
+	 * 
+	 * Create a test to validate that once Forger Password button gets clicked customer can see pop-up Forget Password 
+	 * 
+	 * ************************************************
+	 * Test 7
+	 * 
+	 * Create a test to validate that once Sign Up button gets clicked customer is moved to SignUp page 
+	 * 
+	 * Test 8
+	 * 
+	 * Create a test to validate that once Remember Me button is clicked during positive test -> Customer can see the same credentaials during sec attempt
+	 * 
+	 * 
+	 * */
+ 
 
 }

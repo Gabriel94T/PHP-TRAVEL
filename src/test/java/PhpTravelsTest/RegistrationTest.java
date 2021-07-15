@@ -88,11 +88,26 @@ public class RegistrationTest extends TestBase {
 	}
 
 	
-	/*
+	/*Test 3 
+	 * 
+	 * Create Test for invalid email on registration page -> verify that correct error message occurs on the top of the page
 	 * 
 	 * 
+	 *********************************************
+	 * Test 4
 	 * 
+	 * Create Test for blank email on registration page -> verify that correct error message occurs on the top of the page
 	 * 
+	 * ******************************************************************
+	 * 
+	 * Test 5
+	 * 
+	 * Create Test for password doesnt match  confirmation password on registration page -> verify that correct error message occurs on the top of the page
+	 * 
+	 * *-**************************************************
+	 * Test 6
+	 * 
+	 * Create Test for less than 6 character password on registration page -> verify that correct error message occurs on the top of the page
 	 * 
 	 * 
 	 * 
